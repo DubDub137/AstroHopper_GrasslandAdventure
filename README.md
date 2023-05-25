@@ -47,25 +47,28 @@ The following resources were used in the project:
 
 -   Graphics from the Platformer Art Complete Pack\
 Link: https://opengameart.org/content/platformer-art-complete-pack-often-updated \
-License: CC0
+License: Creative Commons 0 (CC0)
     
 -   "Public Pixel" font\
 Link: https://opengameart.org/content/public-pixel-font \
-License: CC0
+License: Creative Commons 0 (CC0)
     
 -   Sounds used in the game from various sources on OpenGameArt:
     
     -   "Game Over" sound\
     Link: https://opengameart.org/content/game-over-soundold-school \
-    License: CC0
+    License: Creative Commons 0 (CC0)
     -   "Jump" sound\
     Link: https://opengameart.org/content/slime-jump-effect \
-    License: CC0
+    License: Creative Commons 0 (CC0)
     -   "Background music"\
     Link: https://opengameart.org/content/bleeps-and-synths \
-    License: CC0
+    License: Creative Commons Attribution (CC BY 3.0)\
+    Title of the work: bleeps and synths.mp3\
+    Author: 3xBlast\
+    Changes: renamed file to background_music.mp3
     -   "Opening music"\
     Link: https://opengameart.org/content/happy-synths-loop-with-slight-christmas-feeling \
-    License: CC0
+    License: Creative Commons 0 (CC0)
 
 All the above-mentioned graphic and sound resources are free and can be used in personal and commercial projects.
